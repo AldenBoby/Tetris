@@ -10,7 +10,8 @@ public class BlockQueue
         new OBlock(),
         new SBlock(),
         new TBlock(),
-        new ZBlock()
+        new ZBlock(),
+        new PBlock(),
     };
 
     private readonly Random random = new Random();

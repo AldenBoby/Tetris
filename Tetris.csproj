@@ -16,6 +16,7 @@
     <None Remove="Assets\Block-J.png" />
     <None Remove="Assets\Block-L.png" />
     <None Remove="Assets\Block-O.png" />
+    <None Remove="Assets\Block-P.png" />
     <None Remove="Assets\Block-S.png" />
     <None Remove="Assets\Block-T.png" />
     <None Remove="Assets\Block-Z.png" />
@@ -24,6 +25,7 @@
     <None Remove="Assets\TileCyan.png" />
     <None Remove="Assets\TileEmpty.png" />
     <None Remove="Assets\TileGreen.png" />
+    <None Remove="Assets\TileGrey.png" />
     <None Remove="Assets\TileOrange.png" />
     <None Remove="Assets\TilePurple.png" />
     <None Remove="Assets\TileRed.png" />
@@ -41,6 +43,7 @@
     <Resource Include="Assets\Block-J.png" />
     <Resource Include="Assets\Block-L.png" />
     <Resource Include="Assets\Block-O.png" />
+    <Resource Include="Assets\Block-P.png" />
     <Resource Include="Assets\Block-S.png" />
     <Resource Include="Assets\Block-T.png" />
     <Resource Include="Assets\Block-Z.png" />
@@ -49,6 +52,7 @@
     <Resource Include="Assets\TileCyan.png" />
     <Resource Include="Assets\TileEmpty.png" />
     <Resource Include="Assets\TileGreen.png" />
+    <Resource Include="Assets\TileGrey.png" />
     <Resource Include="Assets\TileOrange.png" />
     <Resource Include="Assets\TilePurple.png" />
     <Resource Include="Assets\TileRed.png" />
