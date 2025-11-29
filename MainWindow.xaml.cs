@@ -21,7 +21,8 @@ public partial class MainWindow : Window
         new BitmapImage(new Uri("Assets/TileGreen.png",UriKind.Relative)),
         new BitmapImage(new Uri("Assets/TilePurple.png",UriKind.Relative)),
         new BitmapImage(new Uri("Assets/TileRed.png",UriKind.Relative)),
-        new BitmapImage(new Uri("Assets/TileGrey.png",UriKind.Relative))
+        new BitmapImage(new Uri("Assets/TileGrey.png",UriKind.Relative)),
+        new BitmapImage(new Uri("Assets/TilePink.png",UriKind.Relative))
     };
 
     private readonly ImageSource[] blockImages = new ImageSource[]
@@ -34,7 +35,8 @@ public partial class MainWindow : Window
         new BitmapImage(new Uri("Assets/Block-S.png",UriKind.Relative)),
         new BitmapImage(new Uri("Assets/Block-T.png",UriKind.Relative)),
         new BitmapImage(new Uri("Assets/Block-Z.png",UriKind.Relative)),
-        new BitmapImage(new Uri("Assets/Block-P.png",UriKind.Relative))
+        new BitmapImage(new Uri("Assets/Block-P.png",UriKind.Relative)),
+        new BitmapImage(new Uri("Assets/Block-C.png",UriKind.Relative))
     };
 
     private readonly Image[,] imageControls;

@@ -12,6 +12,7 @@ public class BlockQueue
         new TBlock(),
         new ZBlock(),
         new PBlock(),
+        new CBlock()
     };
 
     private readonly Random random = new Random();
